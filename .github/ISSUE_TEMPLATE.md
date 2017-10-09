@@ -1,5 +1,5 @@
 <!--- DO NOT MODIFY --->
-<!--- Keep everything below if you're joining the open project training. Add the name of your project in the Title space above, then click 'Submit new issue'  --->
+<!--- Keep everything below to begin submitting your project to the Open Leadership Zone. Add the name of your project in the Title space above, then click 'Submit new issue'  --->
 
 Thanks for submitting your project to be featured in the Open Leadership Zone at [MozFest 2017](http://mozillafestival.org/) :sparkles:
 
