@@ -4,7 +4,7 @@ This is open to any project in [Mozilla Open Leaders round 4](https://mozilla.gi
 ## Getting Started
 1. [**Open an issue**](https://github.com/acabunoc/open-leadership-zone/issues/new) in this repository to start your submission to the Open Leadership Zone.
 
-2. **Add the name of your project** in ths issue title. Don't worry about the content of the issue! Leave it as is :smile:
+2. **Add the name of your project** in the issue title. Don't worry about the content of the issue! Leave it as is :smile:
 ![screen shot 2016-09-30 at 13 49 16](https://cloud.githubusercontent.com/assets/617994/19001339/ba6ee3ce-8714-11e6-8057-2173005ded6b.png)
 
 3. Click on **Submit new issue** and get started!
